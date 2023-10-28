@@ -50,3 +50,7 @@ span{
 span:hover{
     color: rgb(248, 247, 247);
 }
+img{
+    background-color: #f3f705;
+    border-radius: 50%;
+}
