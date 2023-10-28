@@ -38,7 +38,7 @@ p{
 }
 
 .profile:hover{
-    transform: scale(0.9);
+    transform: scale(1.2);
     background-color: blue;
 }
 .btn:hover{
